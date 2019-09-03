@@ -37,6 +37,10 @@ depends:
 - python-zmq
 - python-click-plugins
 - python-pyqtgraph
+- pyyaml
+- gobject-introspection
+- pygobject
+- gir-gtk
 - mako
 description: Free and open source toolkit for software defined radio
 category: common
