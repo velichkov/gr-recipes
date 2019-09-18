@@ -43,6 +43,7 @@ depends:
 - gtk3
 - mako
 - doxygen
+- orc
 description: Free and open source toolkit for software defined radio
 category: common
 satisfy:
